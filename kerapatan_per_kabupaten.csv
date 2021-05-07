@@ -1,0 +1,515 @@
+,provinsi,kabupaten,ibukota,hektar,penduduk,density
+0,Aceh,Kabupaten Aceh Barat,Meulaboh,292795.0,210113.0,71.76112980071382
+1,Aceh,Kabupaten Aceh Barat Daya,Blangpidie,149060.0,150393.0,100.89427076345096
+2,Aceh,Kabupaten Aceh Besar,Kota Jantho,296900.0,425216.0,143.21859211855843
+3,Aceh,Kabupaten Aceh Jaya,Calang,381299.0,92892.0,24.361983640135435
+4,Aceh,Kabupaten Aceh Selatan,Tapak Tuan,384160.0,238081.0,61.97443773427739
+5,Aceh,Kabupaten Aceh Singkil,Singkil,218500.0,124101.0,56.79679633867277
+6,Aceh,Kabupaten Aceh Tamiang,Karang Baru,195672.0,295011.0,150.76812216362075
+7,Aceh,Kabupaten Aceh Tengah,Takengon,431839.0,212494.0,49.20676455808762
+8,Aceh,Kabupaten Aceh Tenggara,Kutacane,423143.0,216495.0,51.16355463755751
+9,Aceh,Kabupaten Aceh Timur,Idi Rayeuk,628601.0,436081.0,69.37325903076832
+10,Aceh,Kabupaten Aceh Utara,Lhoksukon,323686.0,619407.0,191.3604542674073
+11,Aceh,Kabupaten Bener Meriah,Simpang Tiga Redelong,145409.0,148175.0,101.90222063283566
+12,Aceh,Kabupaten Bireuen,Bireuen,190120.0,471635.0,248.07227014517147
+13,Aceh,Kabupaten Gayo Lues,Blang Kejeren,571958.0,94100.0,16.452256983904412
+14,Aceh,Kabupaten Nagan Raya,Suka Makmue,336372.0,167294.0,49.734817404540216
+15,Aceh,Kabupaten Pidie,Sigli,308695.0,444976.0,144.14745946646366
+16,Aceh,Kabupaten Pidie Jaya,Meureudu,107360.0,161215.0,150.16300298062595
+17,Aceh,Kabupaten Simeulue,Sinabang,205148.0,93228.0,45.44426462846335
+18,Aceh,Kota Banda Aceh,-,6136.0,270321.0,4405.492177314211
+19,Aceh,Kota Langsa,-,26241.0,176811.0,673.796730307534
+20,Aceh,Kota Lhokseumawe,-,18106.0,207202.0,1144.383077432895
+21,Aceh,Kota Sabang,-,15300.0,34874.0,227.9346405228758
+22,Aceh,Kota Subulussalam,-,139100.0,81417.0,58.531272465851906
+23,Sumatra Utara,Kabupaten Asahan,Kisaran,370221.0,706283.0,190.77334889160798
+24,Sumatra Utara,Kabupaten Batu Bara,Limapuluh,92220.0,400803.0,434.6161353285621
+25,Sumatra Utara,Kabupaten Dairi,Sidikalang,192780.0,279020.0,144.73493100944083
+26,Sumatra Utara,Kabupaten Deli Serdang,Lubuk Pakam,224168.0,2029308.0,905.2621248349453
+27,Sumatra Utara,Kabupaten Humbang Hasundutan,Dolok Sanggul,233533.0,182991.0,78.35766251450545
+28,Sumatra Utara,Kabupaten Karo,Kabanjahe,212700.0,389591.0,183.16455101081334
+29,Sumatra Utara,Kabupaten Labuhanbatu,Rantau Prapat,215602.0,462191.0,214.37231565569894
+30,Sumatra Utara,Kabupaten Labuhanbatu Selatan,Kota Pinang,3596.0,313884.0,8728.698553948832
+31,Sumatra Utara,Kabupaten Labuhanbatu Utara,Aek Kanopan,357098.0,351097.0,98.31950893032165
+32,Sumatra Utara,Kabupaten Langkat,Stabat,626200.0,1013385.0,161.83088470137335
+33,Sumatra Utara,Kabupaten Mandailing Natal,Panyabungan,613400.0,430894.0,70.24682099771763
+34,Sumatra Utara,Kabupaten Nias,Gido,184251.0,136115.0,73.87476865797201
+35,Sumatra Utara,Kabupaten Nias Barat,Lahomi,47373.0,84917.0,179.25189453908342
+36,Sumatra Utara,Kabupaten Nias Selatan,Teluk Dalam,182520.0,308281.0,168.90258601797063
+37,Sumatra Utara,Kabupaten Nias Utara,Lotu,120278.0,133897.0,111.32293520011973
+38,Sumatra Utara,Kabupaten Padang Lawas,Sibuhuan,389274.0,258003.0,66.27799442038256
+39,Sumatra Utara,Kabupaten Padang Lawas Utara,Gunung Tua,391805.0,252589.0,64.46803894794604
+40,Sumatra Utara,Kabupaten Pakpak Bharat,Salak,121830.0,45516.0,37.36025609455799
+41,Sumatra Utara,Kabupaten Samosir,Pangururan,206905.0,123789.0,59.82890698629805
+42,Sumatra Utara,Kabupaten Serdang Bedagai,Sei Rampah,190022.0,608691.0,320.3265937628275
+43,Sumatra Utara,Kabupaten Simalungun,Raya,438660.0,849405.0,193.63630146354805
+44,Sumatra Utara,Kabupaten Tapanuli Selatan,Sipirok,603047.0,275098.0,45.61800324021179
+45,Sumatra Utara,Kabupaten Tapanuli Tengah,Pandan,218800.0,350017.0,159.97120658135285
+46,Sumatra Utara,Kabupaten Tapanuli Utara,Tarutung,379164.0,293399.0,77.38050025846336
+47,Sumatra Utara,Kabupaten Toba,Balige,232889.0,179704.0,77.16294028485675
+48,Sumatra Utara,Kota Binjai,-,5919.0,264687.0,4471.81956411556
+49,Sumatra Utara,Kota Gunungsitoli,-,28078.0,135995.0,484.34717572476677
+50,Sumatra Utara,Kota Medan,-,26510.0,2210624.0,8338.83062995096
+51,Sumatra Utara,Kota Padangsidempuan,-,11466.0,209796.0,1829.7226582940868
+52,Sumatra Utara,Kota Pematangsiantar,-,5566.0,247411.0,4445.0413223140495
+53,Sumatra Utara,Kota Sibolga,-,4131.0,86519.0,2094.38392641007
+54,Sumatra Utara,Kota Tanjungbalai,-,10783.0,167012.0,1548.845404803858
+55,Sumatra Utara,Kota Tebing Tinggi,-,3100.0,156815.0,5058.548387096775
+56,Sumatra Barat,Kabupaten Agam,Lubuk Basung,180430.0,529138.0,293.2649781078535
+57,Sumatra Barat,Kabupaten Dharmasraya,Pulau Punjung,296113.0,228591.0,77.19721862937459
+58,Sumatra Barat,Kabupaten Kepulauan Mentawai,Tuapejat,601135.0,87623.0,14.576259908340056
+59,Sumatra Barat,Kabupaten Lima Puluh Kota,Sarilamak,357114.0,383525.0,107.39567757074772
+60,Sumatra Barat,Kabupaten Padang Pariaman,Parit Malintang,133251.0,430626.0,323.1690568926312
+61,Sumatra Barat,Kabupaten Pasaman,Lubuk Sikaping,394763.0,299851.0,75.95721990156119
+62,Sumatra Barat,Kabupaten Pasaman Barat,Simpang Ampek,388777.0,431672.0,111.03331730014892
+63,Sumatra Barat,Kabupaten Pesisir Selatan,Painan,574989.0,504418.0,87.72654781221901
+64,Sumatra Barat,Kabupaten Sijunjung,Muaro Sijunjung,313040.0,235045.0,75.08465371837465
+65,Sumatra Barat,Kabupaten Solok,Arosuka,373800.0,391497.0,104.73434991974318
+66,Sumatra Barat,Kabupaten Solok Selatan,Padang Aro,334620.0,182027.0,54.398123244277095
+67,Sumatra Barat,Kabupaten Tanah Datar,Batusangkar,133610.0,371704.0,278.2007334780331
+68,Sumatra Barat,Kota Bukittinggi,-,2524.0,121028.0,4795.087163232964
+69,Sumatra Barat,Kota Padang,-,69366.0,909040.0,1310.4979384712972
+70,Sumatra Barat,Kota Padangpanjang,-,2300.0,56311.0,2448.304347826087
+71,Sumatra Barat,Kota Pariaman,-,6613.0,94224.0,1424.8298805383338
+72,Sumatra Barat,Kota Payakumbuh,-,8522.0,139576.0,1637.8314949542362
+73,Sumatra Barat,Kota Sawahlunto,-,23193.0,65138.0,280.8519812012245
+74,Sumatra Barat,Kota Solok,-,7129.0,73438.0,1030.130453078973
+75,Riau,Kabupaten Bengkalis,Bengkalis,697541.0,537142.0,77.00507927132598
+76,Riau,Kabupaten Indragiri Hilir,Tembilahan,1261478.0,616347.0,48.85911605275716
+77,Riau,Kabupaten Indragiri Hulu,Rengat,772380.0,421922.0,54.626220254278984
+78,Riau,Kabupaten Kampar,Bangkinang,1098347.0,740839.0,67.45035949476805
+79,Riau,Kabupaten Kepulauan Meranti,Selatpanjang,370784.0,206611.0,55.722738845257616
+80,Riau,Kabupaten Kuantan Singingi,Taluk Kuantan,525936.0,326266.0,62.0353046758541
+81,Riau,Kabupaten Pelalawan,Pangkalan Kerinci,1275845.0,365817.0,28.672526835156308
+82,Riau,Kabupaten Rokan Hilir,Bagansiapiapi,888159.0,631238.0,71.07263451701779
+83,Riau,Kabupaten Rokan Hulu,Pasir Pengaraian,758813.0,553095.0,72.88949978453189
+84,Riau,Kabupaten Siak,Siak Sri Indrapura,827518.0,415128.0,50.16543446789073
+85,Riau,Kota Dumai,-,162338.0,280174.0,172.58682501940396
+86,Riau,Kota Pekanbaru,-,63227.0,886226.0,1401.6575197304949
+87,Kepulauan Riau,Kabupaten Bintan,Bandar Seri Bentan,131821.0,148658.0,112.7726234818428
+88,Kepulauan Riau,Kabupaten Karimun,Tanjung Balai Karimun,91275.0,240891.0,263.9178307313065
+89,Kepulauan Riau,Kabupaten Kepulauan Anambas,Tarempa,59014.0,43603.0,73.8858575931135
+90,Kepulauan Riau,Kabupaten Lingga,Daik,226677.0,94962.0,41.89309016794822
+91,Kepulauan Riau,Kabupaten Natuna,Ranai,200904.0,74977.0,37.31981443873691
+92,Kepulauan Riau,Kota Batam,-,96025.0,1062250.0,1106.22233793283
+93,Kepulauan Riau,Kota Tanjungpinang,-,14456.0,207933.0,1438.385445489762
+94,Jambi,Kabupaten Batanghari,Muara Bulian,580400.0,308249.0,53.109751895244656
+95,Jambi,Kabupaten Bungo,Muara Bungo,465900.0,332881.0,71.44902339557845
+96,Jambi,Kabupaten Kerinci,Siulak,335527.0,235735.0,70.25813123832062
+97,Jambi,Kabupaten Merangin,Bangko,767900.0,333669.0,43.45214220601641
+98,Jambi,Kabupaten Muaro Jambi,Sengeti,532600.0,359631.0,67.52365752910252
+99,Jambi,Kabupaten Sarolangun,Sarolangun,618400.0,313373.0,50.67480595084088
+100,Jambi,Kabupaten Tanjung Jabung Barat,Kuala Tungkal,464985.0,322058.0,69.26201920492058
+101,Jambi,Kabupaten Tanjung Jabung Timur,Muara Sabak,544500.0,222834.0,40.924517906336085
+102,Jambi,Kabupaten Tebo,Muara Tebo,646100.0,327669.0,50.71490481349636
+103,Jambi,Kota Jambi,-,10354.0,609620.0,5887.772841413946
+104,Jambi,Kota Sungaipenuh,-,39150.0,103511.0,264.39591315453384
+105,Bengkulu,Kabupaten Bengkulu Selatan,Kota Manna,118610.0,164237.0,138.4680886940393
+106,Bengkulu,Kabupaten Bengkulu Tengah,Karang Tinggi,122394.0,108889.0,88.96596238377698
+107,Bengkulu,Kabupaten Bengkulu Utara,Arga Makmur,432460.0,279223.0,64.56620265458076
+108,Bengkulu,Kabupaten Kaur,Bintuhan,236905.0,125768.0,53.08794664527975
+109,Bengkulu,Kabupaten Kepahiang,Kepahiang,66500.0,147677.0,222.07067669172932
+110,Bengkulu,Kabupaten Lebong,Muara Aman,192182.0,113677.0,59.150700898107004
+111,Bengkulu,Kabupaten Mukomuko,Mukomuko,403670.0,174742.0,43.28832957613893
+112,Bengkulu,Kabupaten Rejang Lebong,Curup,163998.0,275640.0,168.07522042951743
+113,Bengkulu,Kabupaten Seluma,Tais,240044.0,207587.0,86.47872889970172
+114,Bengkulu,Kota Bengkulu,-,15170.0,364604.0,2403.4541858932103
+115,Sumatra Selatan,Kabupaten Banyuasin,Pangkalan Balai,1183299.0,803895.0,67.93675985528594
+116,Sumatra Selatan,Kabupaten Empat Lawang,Tebing Tinggi,225644.0,327053.0,144.94203258229777
+117,Sumatra Selatan,Kabupaten Lahat,Lahat,531174.0,427320.0,80.4482147093043
+118,Sumatra Selatan,Kabupaten Muara Enim,Muara Enim,738390.0,567450.0,76.84963230812986
+119,Sumatra Selatan,Kabupaten Musi Banyuasin,Sekayu,1426626.0,608125.0,42.62679917511667
+120,Sumatra Selatan,Kabupaten Musi Rawas,Muara Beliti Baru,635010.0,408597.0,64.34497094533944
+121,Sumatra Selatan,Kabupaten Musi Rawas Utara,Rupit,600855.0,188680.0,31.4019189321883
+122,Sumatra Selatan,Kabupaten Ogan Ilir,Indralaya,266609.0,410529.0,153.98167353690235
+123,Sumatra Selatan,Kabupaten Ogan Komering Ilir,Kota Kayu Agung,1835904.0,721571.0,39.3033077982291
+124,Sumatra Selatan,Kabupaten Ogan Komering Ulu,Baturaja,479706.0,357502.0,74.52523003673082
+125,Sumatra Selatan,Kabupaten Ogan Komering Ulu Selatan,Muaradua,549394.0,410303.0,74.6828323571062
+126,Sumatra Selatan,Kabupaten Ogan Komering Ulu Timur,Martapura,337000.0,633810.0,188.07418397626114
+127,Sumatra Selatan,Kabupaten Penukal Abab Lematang Ilir,Talang Ubi,184000.0,170497.0,92.66141304347826
+128,Sumatra Selatan,Kota Lubuklinggau,-,40150.0,217119.0,540.7696139476961
+129,Sumatra Selatan,Kota Pagar Alam,-,63366.0,139867.0,220.72878199665436
+130,Sumatra Selatan,Kota Palembang,-,36922.0,1569297.0,4250.303342180813
+131,Sumatra Selatan,Kota Prabumulih,-,25194.0,190913.0,757.7716916726205
+132,Kepulauan Bangka Belitung,Kabupaten Bangka,Sungai Liat,295068.0,312460.0,105.89423454932422
+133,Kepulauan Bangka Belitung,Kabupaten Bangka Barat,Muntok,282061.0,189621.0,67.22694736244996
+134,Kepulauan Bangka Belitung,Kabupaten Bangka Selatan,Toboali,360708.0,168341.0,46.66960533173648
+135,Kepulauan Bangka Belitung,Kabupaten Bangka Tengah,Koba,215577.0,175064.0,81.20717887344198
+136,Kepulauan Bangka Belitung,Kabupaten Belitung,Tanjung Pandan,229361.0,159349.0,69.47519412628999
+137,Kepulauan Bangka Belitung,Kabupaten Belitung Timur,Manggar,250691.0,119807.0,47.79070648726919
+138,Kepulauan Bangka Belitung,Kota Pangkalpinang,-,8940.0,207420.0,2320.1342281879192
+139,Lampung,Kabupaten Lampung Barat,Liwa,214278.0,301131.0,140.53285918293057
+140,Lampung,Kabupaten Lampung Selatan,Kalianda,70032.0,1269262.0,1812.4029015307287
+141,Lampung,Kabupaten Lampung Tengah,Gunung Sugih,380268.0,1468875.0,386.2736280728329
+142,Lampung,Kabupaten Lampung Timur,Sukadana,532503.0,1113976.0,209.1961923219212
+143,Lampung,Kabupaten Lampung Utara,Kotabumi,272587.0,885591.0,324.883798567063
+144,Lampung,Kabupaten Mesuji,Mesuji,218400.0,315813.0,144.60302197802199
+145,Lampung,Kabupaten Pesawaran,Gedong Tataan,224351.0,546160.0,243.43996683767844
+146,Lampung,Kabupaten Pesisir Barat,Krui,290723.0,155964.0,53.64694227838871
+147,Lampung,Kabupaten Pringsewu,Pringsewu,62500.0,421180.0,673.888
+148,Lampung,Kabupaten Tanggamus,Kota Agung,302064.0,640588.0,212.07028973992269
+149,Lampung,Kabupaten Tulang Bawang,Menggala,346632.0,419427.0,121.00065775808349
+150,Lampung,Kabupaten Tulang Bawang Barat,Tulang Bawang Tengah,120100.0,268119.0,223.2464612822648
+151,Lampung,Kabupaten Way Kanan,Blambangan Umpu,392163.0,479256.0,122.20836743904958
+152,Lampung,Kota Bandar Lampung,-,29600.0,1175397.0,3970.935810810811
+153,Lampung,Kota Metro,-,6179.0,165368.0,2676.2906619194046
+154,Banten,Kabupaten Lebak,Rangkasbitung,342656.0,1222258.0,356.70118135973104
+155,Banten,Kabupaten Pandeglang,Pandeglang,274689.0,1175148.0,427.810360079945
+156,Banten,Kabupaten Serang,Ciruas,173428.0,1435003.0,827.43443965219
+157,Banten,Kabupaten Tangerang,Tigaraksa,101186.0,2619803.0,2589.0963176724053
+158,Banten,Kota Cilegon,-,17550.0,404426.0,2304.421652421652
+159,Banten,Kota Serang,-,26671.0,630320.0,2363.3159611563124
+160,Banten,Kota Tangerang,-,15393.0,1651428.0,10728.435002923407
+161,Banten,Kota Tangerang Selatan,-,14719.0,1244204.0,8453.047082002853
+162,Jawa Barat,Kabupaten Bandung,Soreang,176796.0,3623790.0,2049.701350709292
+163,Jawa Barat,Kabupaten Bandung Barat,Ngamprah,130577.0,1788336.0,1369.5643183715356
+164,Jawa Barat,Kabupaten Bekasi,Cikarang Pusat,122488.0,3113071.0,2541.531415322317
+165,Jawa Barat,Kabupaten Bogor,Cibinong,271062.0,5427068.0,2002.1500616095211
+166,Jawa Barat,Kabupaten Ciamis,Ciamis,141471.0,1229069.0,868.7780534526511
+167,Jawa Barat,Kabupaten Cianjur,Cianjur,384016.0,2477560.0,645.1710345402275
+168,Jawa Barat,Kabupaten Cirebon,Sumber,98452.0,2270621.0,2306.3228781538214
+169,Jawa Barat,Kabupaten Garut,Tarogong Kidul,307407.0,2585607.0,841.1021870028984
+170,Jawa Barat,Kabupaten Indramayu,Indramayu,204011.0,1834434.0,899.1838675365544
+171,Jawa Barat,Kabupaten Karawang,Karawang Barat,165220.0,2439085.0,1476.264980026631
+172,Jawa Barat,Kabupaten Kuningan,Kuningan,111056.0,1167686.0,1051.4389137011958
+173,Jawa Barat,Kabupaten Majalengka,Majalengka,120424.0,1305476.0,1084.0662990765961
+174,Jawa Barat,Kabupaten Pangandaran,Parigi,101000.0,423667.0,419.47227722772277
+175,Jawa Barat,Kabupaten Purwakarta,Purwakarta,82574.0,997869.0,1208.4542349892217
+176,Jawa Barat,Kabupaten Subang,Subang,189395.0,1595320.0,842.3242429842393
+177,Jawa Barat,Kabupaten Sukabumi,Palabuhanratu,414570.0,2725450.0,657.4161179052995
+178,Jawa Barat,Kabupaten Sumedang,Sumedang Utara,151833.0,1152507.0,759.0622591926657
+179,Jawa Barat,Kabupaten Tasikmalaya,Singaparna,255119.0,1865203.0,731.1109717425985
+180,Jawa Barat,Kota Bandung,-,16767.0,2444160.0,14577.205224548221
+181,Jawa Barat,Kota Banjar,-,11349.0,200973.0,1770.8432461009781
+182,Jawa Barat,Kota Bekasi,-,20661.0,2543676.0,12311.485407289094
+183,Jawa Barat,Kota Bogor,-,11850.0,1043070.0,8802.278481012658
+184,Jawa Barat,Kota Cimahi,-,3927.0,568700.0,14481.792717086833
+185,Jawa Barat,Kota Cirebon,-,3736.0,333303.0,8921.386509635975
+186,Jawa Barat,Kota Depok,-,20029.0,2056335.0,10266.788157172101
+187,Jawa Barat,Kota Sukabumi,-,4825.0,336325.0,6970.466321243523
+188,Jawa Barat,Kota Tasikmalaya,-,17161.0,716155.0,4173.154245090612
+189, Daerah Khusus Ibukota Jakarta,Kabupaten Administrasi Kepulauan Seribu,Pulau Pramuka,870.0,23340.0,2682.7586206896553
+190, Daerah Khusus Ibukota Jakarta,Kota Administrasi Jakarta Barat,Kembangan,12954.0,2463560.0,19017.755133549483
+191, Daerah Khusus Ibukota Jakarta,Kota Administrasi Jakarta Pusat,Menteng,4813.0,914182.0,18994.016206108456
+192, Daerah Khusus Ibukota Jakarta,Kota Administrasi Jakarta Selatan,Kebayoran Baru,14127.0,2185711.0,15471.869469809584
+193, Daerah Khusus Ibukota Jakarta,Kota Administrasi Jakarta Timur,Cakung,18803.0,2843816.0,15124.267404137638
+194, Daerah Khusus Ibukota Jakarta,Kota Administrasi Jakarta Utara,Koja,14666.0,1747315.0,11914.052911495977
+195,Jawa Tengah,Kabupaten Banjarnegara,Banjarnegara,102373.0,1002398.0,979.162474480576
+196,Jawa Tengah,Kabupaten Banyumas,Purwokerto,133530.0,1741077.0,1303.8845203325095
+197,Jawa Tengah,Kabupaten Batang,Batang,78865.0,773138.0,980.3309452862487
+198,Jawa Tengah,Kabupaten Blora,Blora,182159.0,925642.0,508.1505717532486
+199,Jawa Tengah,Kabupaten Boyolali,Boyolali,100845.0,989776.0,981.4824731022857
+200,Jawa Tengah,Kabupaten Brebes,Brebes,190237.0,1896243.0,996.7792805815903
+201,Jawa Tengah,Kabupaten Cilacap,Cilacap,212447.0,1840594.0,866.3779672106456
+202,Jawa Tengah,Kabupaten Demak,Demak,90012.0,1116343.0,1240.215749011243
+203,Jawa Tengah,Kabupaten Grobogan,Purwodadi,201386.0,1448535.0,719.2828697128897
+204,Jawa Tengah,Kabupaten Jepara,Jepara,105925.0,1158182.0,1093.3981590748172
+205,Jawa Tengah,Kabupaten Karanganyar,Karanganyar,77544.0,896991.0,1156.7510058805324
+206,Jawa Tengah,Kabupaten Kebumen,Kebumen,121174.0,1362524.0,1124.4359351015894
+207,Jawa Tengah,Kabupaten Kendal,Kendal,111813.0,976771.0,873.5755234185648
+208,Jawa Tengah,Kabupaten Klaten,Klaten,65822.0,1304519.0,1981.8890340615599
+209,Jawa Tengah,Kabupaten Kudus,Kudus,42515.0,832681.0,1958.5581559449606
+210,Jawa Tengah,Kabupaten Magelang,Mungkid,110293.0,1280679.0,1161.1607264286945
+211,Jawa Tengah,Kabupaten Pati,Pati,148919.0,1420292.0,953.7345805437856
+212,Jawa Tengah,Kabupaten Pekalongan,Kajen,83700.0,934929.0,1117.0
+213,Jawa Tengah,Kabupaten Pemalang,Pemalang,111803.0,1471174.0,1315.8627228249688
+214,Jawa Tengah,Kabupaten Purbalingga,Purbalingga,67755.0,953304.0,1406.9869382333409
+215,Jawa Tengah,Kabupaten Purworejo,Purworejo,109149.0,771203.0,706.559840218417
+216,Jawa Tengah,Kabupaten Rembang,Rembang,88713.0,625991.0,705.6361525368322
+217,Jawa Tengah,Kabupaten Semarang,Ungaran,95021.0,1008646.0,1061.4979846560234
+218,Jawa Tengah,Kabupaten Sragen,Sragen,94154.0,981416.0,1042.3518915818765
+219,Jawa Tengah,Kabupaten Sukoharjo,Sukoharjo,48912.0,897291.0,1834.5007360157017
+220,Jawa Tengah,Kabupaten Tegal,Slawi,87610.0,1444074.0,1648.2981394817944
+221,Jawa Tengah,Kabupaten Temanggung,Temanggung,83771.0,769843.0,918.9850903057144
+222,Jawa Tengah,Kabupaten Wonogiri,Wonogiri,179367.0,1081041.0,602.6978206693539
+223,Jawa Tengah,Kabupaten Wonosobo,Wonosobo,98141.0,858273.0,874.5305224116323
+224,Jawa Tengah,Kota Magelang,-,1606.0,129303.0,8051.245330012454
+225,Jawa Tengah,Kota Pekalongan,-,4525.0,305052.0,6741.480662983426
+226,Jawa Tengah,Kota Salatiga,-,5736.0,186859.0,3257.653417015342
+227,Jawa Tengah,Kota Semarang,-,37378.0,1653035.0,4422.481138637701
+228,Jawa Tengah,Kota Surakarta,-,4601.0,562269.0,12220.582482069116
+229,Jawa Tengah,Kota Tegal,-,3968.0,280940.0,7080.1411290322585
+230, Daerah Istimewa Yogyakarta,Kabupaten Bantul,Bantul,50686.0,911503.0,1798.3328729826776
+231, Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul,Wonosari,148536.0,748119.0,503.6617385684279
+232, Daerah Istimewa Yogyakarta,Kabupaten Kulon Progo,Wates,58627.0,470520.0,802.5653709041909
+233, Daerah Istimewa Yogyakarta,Kabupaten Sleman,Sleman,57482.0,1093110.0,1901.6561706273267
+234, Daerah Istimewa Yogyakarta,Kota Yogyakarta,-,3250.0,636660.0,19589.53846153846
+235,Jawa Timur,Kabupaten Bangkalan,Bangkalan,100144.0,1065620.0,1064.0877136922832
+236,Jawa Timur,Kabupaten Banyuwangi,Banyuwangi,578240.0,1693630.0,292.8939540675152
+237,Jawa Timur,Kabupaten Blitar,Kanigoro,133648.0,1219092.0,912.1662875613551
+238,Jawa Timur,Kabupaten Bojonegoro,Bojonegoro,219879.0,1313722.0,597.4749748725435
+239,Jawa Timur,Kabupaten Bondowoso,Bondowoso,152597.0,781753.0,512.2990622358237
+240,Jawa Timur,Kabupaten Gresik,Gresik,119125.0,1251754.0,1050.7903462749214
+241,Jawa Timur,Kabupaten Jember,Jember,309234.0,2622421.0,848.037731944094
+242,Jawa Timur,Kabupaten Jombang,Jombang,111509.0,1295960.0,1162.2021540862174
+243,Jawa Timur,Kabupaten Kediri,Ngasem,138605.0,1571555.0,1133.837163161502
+244,Jawa Timur,Kabupaten Lamongan,Lamongan,178205.0,1357771.0,761.9152100109425
+245,Jawa Timur,Kabupaten Lumajang,Lumajang,179090.0,1108060.0,618.7168462784075
+246,Jawa Timur,Kabupaten Madiun,Caruban,103758.0,727994.0,701.6268625069874
+247,Jawa Timur,Kabupaten Magetan,Magetan,68884.0,687057.0,997.4115904999709
+248,Jawa Timur,Kabupaten Malang,Kepanjen,353065.0,2464369.0,697.9930041210541
+249,Jawa Timur,Kabupaten Mojokerto,Mojosari,71783.0,1104099.0,1538.1065154702367
+250,Jawa Timur,Kabupaten Nganjuk,Nganjuk,122425.0,1096944.0,896.0130692260568
+251,Jawa Timur,Kabupaten Ngawi,Ngawi,129598.0,899495.0,694.0654948378833
+252,Jawa Timur,Kabupaten Pacitan,Pacitan,138992.0,582275.0,418.9269886036606
+253,Jawa Timur,Kabupaten Pamekasan,Pamekasan,79224.0,811330.0,1024.0962334646067
+254,Jawa Timur,Kabupaten Pasuruan,Bangil,147402.0,1573202.0,1067.2867396643194
+255,Jawa Timur,Kabupaten Ponorogo,Ponorogo,130570.0,949280.0,727.0276480049016
+256,Jawa Timur,Kabupaten Probolinggo,Kraksaan,169621.0,1103442.0,650.5338372017616
+257,Jawa Timur,Kabupaten Sampang,Sampang,123308.0,844872.0,685.1720894021475
+258,Jawa Timur,Kabupaten Sidoarjo,Sidoarjo,63438.0,1827064.0,2880.0781865758695
+259,Jawa Timur,Kabupaten Situbondo,Situbondo,166987.0,681280.0,407.98385503063116
+260,Jawa Timur,Kabupaten Sumenep,Sumenep,199854.0,1126724.0,563.7735546949273
+261,Jawa Timur,Kabupaten Trenggalek,Trenggalek,114722.0,736629.0,642.0991614511602
+262,Jawa Timur,Kabupaten Tuban,Tuban,183415.0,1189855.0,648.722841643268
+263,Jawa Timur,Kabupaten Tulungagung,Tulungagung,105565.0,1098557.0,1040.6451001752473
+264,Jawa Timur,Kota Batu,-,13674.0,203214.0,1486.1342694164107
+265,Jawa Timur,Kota Blitar,-,3257.0,154181.0,4733.834817316549
+266,Jawa Timur,Kota Kediri,-,6340.0,287528.0,4535.141955835962
+267,Jawa Timur,Kota Madiun,-,3329.0,204462.0,6141.844397717033
+268,Jawa Timur,Kota Malang,-,14528.0,834545.0,5744.390143171806
+269,Jawa Timur,Kota Mojokerto,-,1647.0,136583.0,8292.83545840923
+270,Jawa Timur,Kota Pasuruan,-,3529.0,209104.0,5925.304618872202
+271,Jawa Timur,Kota Probolinggo,-,5667.0,232491.0,4102.541026998411
+272,Jawa Timur,Kota Surabaya,-,35054.0,2827892.0,8067.244822274205
+273,Bali,Kabupaten Badung,Mangupura,41862.0,468346.0,1118.7855334193302
+274,Bali,Kabupaten Bangli,Bangli,49071.0,264945.0,539.9217460414502
+275,Bali,Kabupaten Buleleng,Singaraja,136473.0,814356.0,596.7158339012112
+276,Bali,Kabupaten Gianyar,Gianyar,36800.0,492757.0,1339.0135869565217
+277,Bali,Kabupaten Jembrana,Negara,84180.0,323211.0,383.95224518888097
+278,Bali,Kabupaten Karangasem,Amlapura,83954.0,545389.0,649.6283679157634
+279,Bali,Kabupaten Klungkung,Semarapura,31500.0,215852.0,685.2444444444444
+280,Bali,Kabupaten Tabanan,Tabanan,101388.0,466647.0,460.2586104864481
+281,Bali,Kota Denpasar,-,12778.0,638548.0,4997.245265299734
+282,Nusa Tenggara Barat,Kabupaten Bima,Woha,340563.0,524677.0,154.06165672724282
+283,Nusa Tenggara Barat,Kabupaten Dompu,Dompu,239154.0,214795.0,89.81451282437258
+284,Nusa Tenggara Barat,Kabupaten Lombok Barat,Gerung,89656.0,713848.0,796.2077273132863
+285,Nusa Tenggara Barat,Kabupaten Lombok Tengah,Praya,109503.0,1035355.0,945.5037761522516
+286,Nusa Tenggara Barat,Kabupaten Lombok Timur,Selong,123076.0,1289907.0,1048.0572979297344
+287,Nusa Tenggara Barat,Kabupaten Lombok Utara,Tanjung,77625.0,233691.0,301.0512077294686
+288,Nusa Tenggara Barat,Kabupaten Sumbawa,Sumbawa Besar,664398.0,509234.0,76.64592608647227
+289,Nusa Tenggara Barat,Kabupaten Sumbawa Barat,Taliwang,184902.0,135031.0,73.02841505229797
+290,Nusa Tenggara Barat,Kota Bima,-,22225.0,141294.0,635.7435320584926
+291,Nusa Tenggara Barat,Kota Mataram,-,6130.0,419506.0,6843.491027732463
+292,Nusa Tenggara Timur,Kabupaten Alor,Kalabahi,286460.0,209974.0,73.29958807512394
+293,Nusa Tenggara Timur,Kabupaten Belu,Atambua,128497.0,220699.0,171.75420437831232
+294,Nusa Tenggara Timur,Kabupaten Ende,Ende,204650.0,270207.0,132.03371610065966
+295,Nusa Tenggara Timur,Kabupaten Flores Timur,Larantuka,181320.0,280178.0,154.52128833002428
+296,Nusa Tenggara Timur,Kabupaten Kupang,Oelamasi,543476.0,402320.0,74.02718795310189
+297,Nusa Tenggara Timur,Kabupaten Lembata,Lewoleba,126600.0,133552.0,105.4913112164297
+298,Nusa Tenggara Timur,Kabupaten Malaka,Betun,116063.0,190561.0,164.18755331156353
+299,Nusa Tenggara Timur,Kabupaten Manggarai,Ruteng,209644.0,318115.0,151.7405697277289
+300,Nusa Tenggara Timur,Kabupaten Manggarai Barat,Labuan Bajo,239703.0,256491.0,107.00366703795946
+301,Nusa Tenggara Timur,Kabupaten Manggarai Timur,Borong,264293.0,262606.0,99.36169327223953
+302,Nusa Tenggara Timur,Kabupaten Nagekeo,Mbay,141696.0,160180.0,113.04482836495032
+303,Nusa Tenggara Timur,Kabupaten Ngada,Bajawa,164588.0,164703.0,100.06987143655672
+304,Nusa Tenggara Timur,Kabupaten Rote Ndao,Baa,128000.0,143585.0,112.17578125
+305,Nusa Tenggara Timur,Kabupaten Sabu Raijua,Seba,46054.0,92991.0,201.91731445694185
+306,Nusa Tenggara Timur,Kabupaten Sikka,Maumere,173190.0,314809.0,181.7708874646342
+307,Nusa Tenggara Timur,Kabupaten Sumba Barat,Waikabubak,73742.0,145061.0,196.7142198475767
+308,Nusa Tenggara Timur,Kabupaten Sumba Barat Daya,Tambolaka,148046.0,307331.0,207.59155938019265
+309,Nusa Tenggara Timur,Kabupaten Sumba Tengah,Waibakul,186874.0,84174.0,45.0431841775742
+310,Nusa Tenggara Timur,Kabupaten Sumba Timur,Waingapu,700050.0,237119.0,33.87172344832512
+311,Nusa Tenggara Timur,Kabupaten Timor Tengah Selatan,Soe,394700.0,463857.0,117.52140866480872
+312,Nusa Tenggara Timur,Kabupaten Timor Tengah Utara,Kefamenanu,266970.0,263149.0,98.56875304341312
+313,Nusa Tenggara Timur,Kota Kupang,-,18027.0,438005.0,2429.716536306651
+314,Kalimantan Barat,Kabupaten Bengkayang,Bengkayang,507548.0,283775.0,55.9109680266694
+315,Kalimantan Barat,Kabupaten Kapuas Hulu,Putussibau,2984200.0,237599.0,7.961899336505597
+316,Kalimantan Barat,Kabupaten Kayong Utara,Sukadana,456826.0,122311.0,26.774089040466173
+317,Kalimantan Barat,Kabupaten Ketapang,Ketapang,3124074.0,578533.0,18.518543414784666
+318,Kalimantan Barat,Kabupaten Kubu Raya,Sungai Raya,695822.0,601356.0,86.42382678328653
+319,Kalimantan Barat,Kabupaten Landak,Ngabang,891510.0,396072.0,44.42709560184406
+320,Kalimantan Barat,Kabupaten Melawi,Nanga Pinoh,1064080.0,228787.0,21.50092098338471
+321,Kalimantan Barat,Kabupaten Mempawah,Mempawah,279788.0,301715.0,107.8370051610505
+322,Kalimantan Barat,Kabupaten Sambas,Sambas,671652.0,631865.0,94.07624781881093
+323,Kalimantan Barat,Kabupaten Sanggau,Sanggau,1285780.0,482500.0,37.52585978938855
+324,Kalimantan Barat,Kabupaten Sekadau,Sekadau,544420.0,208791.0,38.35108923257779
+325,Kalimantan Barat,Kabupaten Sintang,Sintang,2163820.0,403095.0,18.628860071540146
+326,Kalimantan Barat,Kota Pontianak,-,10780.0,655572.0,6081.372912801485
+327,Kalimantan Barat,Kota Singkawang,-,54750.0,232993.0,425.5579908675799
+328,Kalimantan Selatan,Kabupaten Balangan,Paringin,187830.0,125288.0,66.70286961614225
+329,Kalimantan Selatan,Kabupaten Banjar,Martapura,466800.0,542204.0,116.15338474721509
+330,Kalimantan Selatan,Kabupaten Barito Kuala,Marabahan,299646.0,309749.0,103.37164520801213
+331,Kalimantan Selatan,Kabupaten Hulu Sungai Selatan,Kandangan,180494.0,221200.0,122.55255022327611
+332,Kalimantan Selatan,Kabupaten Hulu Sungai Tengah,Barabai,147200.0,250782.0,170.36820652173913
+333,Kalimantan Selatan,Kabupaten Hulu Sungai Utara,Amuntai,89270.0,221557.0,248.18752100369665
+334,Kalimantan Selatan,Kabupaten Kotabaru,Kotabaru,948273.0,318853.0,33.624599666973545
+335,Kalimantan Selatan,Kabupaten Tabalong,Tanjung,376697.0,238000.0,63.18075270044625
+336,Kalimantan Selatan,Kabupaten Tanah Bumbu,Batulicin,500696.0,310309.0,61.97553006215348
+337,Kalimantan Selatan,Kabupaten Tanah Laut,Pelaihari,363135.0,344730.0,94.93163699450618
+338,Kalimantan Selatan,Kabupaten Tapin,Rantau,270082.0,178841.0,66.21729696906866
+339,Kalimantan Selatan,Kota Banjarbaru,-,37100.0,221735.0,597.6684636118598
+340,Kalimantan Selatan,Kota Banjarmasin,-,7200.0,647003.0,8986.152777777777
+341,Kalimantan Tengah,Kabupaten Barito Selatan,Buntok,8830.0,123396.0,1397.4631936579842
+342,Kalimantan Tengah,Kabupaten Barito Timur,Tamiang Layang,3834.0,109949.0,2867.7360459050597
+343,Kalimantan Tengah,Kabupaten Barito Utara,Muara Teweh,8300.0,152308.0,1835.0361445783133
+344,Kalimantan Tengah,Kabupaten Gunung Mas,Kuala Kurun,10805.0,137662.0,1274.0583063396575
+345,Kalimantan Tengah,Kabupaten Kapuas,Kuala Kapuas,1499900.0,409862.0,27.32595506367091
+346,Kalimantan Tengah,Kabupaten Katingan,Kasongan,17500.0,147939.0,845.3657142857143
+347,Kalimantan Tengah,Kabupaten Kotawaringin Barat,Pangkalan Bun,1075900.0,244292.0,22.70582767915234
+348,Kalimantan Tengah,Kabupaten Kotawaringin Timur,Sampit,1679600.0,408029.0,24.293224577280306
+349,Kalimantan Tengah,Kabupaten Lamandau,Nanga Bulik,6414.0,77251.0,1204.4122232616153
+350,Kalimantan Tengah,Kabupaten Murung Raya,Puruk Cahu,23700.0,105454.0,444.9535864978903
+351,Kalimantan Tengah,Kabupaten Pulang Pisau,Pulang Pisau,8997.0,126381.0,1404.701567189063
+352,Kalimantan Tengah,Kabupaten Sukamara,Sukamara,3827.0,58143.0,1519.2840344917688
+353,Kalimantan Tengah,Kabupaten Seruyan,Kuala Pembuang,16404.0,143414.0,874.2623750304804
+354,Kalimantan Tengah,Kota Palangka Raya,-,239950.0,258550.0,107.75161491977495
+355,Kalimantan Timur,Kabupaten Berau,Tanjung Redeb,2124000.0,219263.0,10.323116760828626
+356,Kalimantan Timur,Kabupaten Kutai Barat,Sendawar,2038159.0,158560.0,7.779569699910557
+357,Kalimantan Timur,Kabupaten Kutai Kartanegara,Tenggarong,2360191.0,670458.0,28.4069382520313
+358,Kalimantan Timur,Kabupaten Kutai Timur,Sangatta,3574750.0,416800.0,11.659556612350514
+359,Kalimantan Timur,Kabupaten Mahakam Ulu,Ujoh Bilang,1531500.0,24455.0,1.5968005223636956
+360,Kalimantan Timur,Kabupaten Paser,Tana Paser,773088.0,254503.0,32.92031437559502
+361,Kalimantan Timur,Kabupaten Penajam Paser Utara,Penajam,333306.0,166554.0,49.97029756440028
+362,Kalimantan Timur,Kota Balikpapan,-,52700.0,619983.0,1176.438330170778
+363,Kalimantan Timur,Kota Bontang,-,40670.0,174292.0,428.55175805261865
+364,Kalimantan Timur,Kota Samarinda,-,78300.0,766015.0,978.3077905491699
+365,Kalimantan Utara,Kabupaten Bulungan,Tanjung Selor,1392572.0,151800.0,10.900693105993803
+366,Kalimantan Utara,Kabupaten Malinau,Malinau,4262070.0,82500.0,1.935679141825451
+367,Kalimantan Utara,Kabupaten Nunukan,Nunukan,1384190.0,199090.0,14.38314104277592
+368,Kalimantan Utara,Kabupaten Tana Tidung,Tideng Pale,482858.0,25600.0,5.301765736510527
+369,Kalimantan Utara,Kota Tarakan,-,25080.0,242800.0,968.1020733652313
+370,Gorontalo,Kabupaten Boalemo,Tilamuta,152188.0,143689.0,94.41545982600468
+371,Gorontalo,Kabupaten Bone Bolango,Suwawa,198431.0,160154.0,80.71017129379986
+372,Gorontalo,Kabupaten Gorontalo,Limboto,175083.0,391944.0,223.86182553417524
+373,Gorontalo,Kabupaten Gorontalo Utara,Kwandang,167615.0,124202.0,74.09957342719923
+374,Gorontalo,Kabupaten Pohuwato,Marisa,424431.0,141281.0,33.28715386010918
+375,Gorontalo,Kota Gorontalo,-,7959.0,196055.0,2463.3119738660635
+376,Sulawesi Barat,Kabupaten Majene,Banggae,94784.0,166505.0,175.6678342336259
+377,Sulawesi Barat,Kabupaten Mamasa,Kota Mamasa,300588.0,203599.0,67.73357552530373
+378,Sulawesi Barat,Kabupaten Mamuju,Kota Mamuju,499969.0,297096.0,59.42288421882157
+379,Sulawesi Barat,Kabupaten Mamuju Tengah,Tobadak,301437.0,142913.0,47.410570036193306
+380,Sulawesi Barat,Kabupaten Pasangkayu,Pasangkayu,304375.0,208325.0,68.4435318275154
+381,Sulawesi Barat,Kabupaten Polewali Mandar,Polewali,177565.0,517677.0,291.5422521330217
+382,Sulawesi Selatan,Kabupaten Bantaeng,Bantaeng,39583.0,176699.0,446.40123285248717
+383,Sulawesi Selatan,Kabupaten Barru,Barru,117471.0,165983.0,141.29700096193955
+384,Sulawesi Selatan,Kabupaten Bone,Watampone,4559.0,717268.0,15733.011625356437
+385,Sulawesi Selatan,Kabupaten Bulukumba,Bulukumba,115467.0,394560.0,341.70802047338196
+386,Sulawesi Selatan,Kabupaten Enrekang,Enrekang,178601.0,190579.0,106.70656939210866
+387,Sulawesi Selatan,Kabupaten Gowa,Sungguminasa,188332.0,652329.0,346.3718327209396
+388,Sulawesi Selatan,Kabupaten Jeneponto,Bontosunggu,74979.0,342222.0,456.42379866362586
+389,Sulawesi Selatan,Kabupaten Kepulauan Selayar,Benteng,1050369.0,122055.0,11.620202043281932
+390,Sulawesi Selatan,Kabupaten Luwu,Belopa,300025.0,332482.0,110.81809849179236
+391,Sulawesi Selatan,Kabupaten Luwu Timur,Malili,694488.0,243069.0,34.999740816256
+392,Sulawesi Selatan,Kabupaten Luwu Utara,Masamba,750258.0,287472.0,38.31641915181178
+393,Sulawesi Selatan,Kabupaten Maros,Turikale,161912.0,322212.0,199.00439745046694
+394,Sulawesi Selatan,Kabupaten Pangkajene dan Kepulauan,Pangkajene,123627.0,305758.0,247.32299578571025
+395,Sulawesi Selatan,Kabupaten Pinrang,Pinrang,196177.0,351161.0,179.00212563144507
+396,Sulawesi Selatan,Kabupaten Sidenreng Rappang,Pangkajene Sidenreng,250619.0,278004.0,110.92694488446605
+397,Sulawesi Selatan,Kabupaten Sinjai,Balangnipa,81996.0,228936.0,279.2038636031026
+398,Sulawesi Selatan,Kabupaten Soppeng,Watansoppeng,135944.0,223757.0,164.59498028600012
+399,Sulawesi Selatan,Kabupaten Takalar,Pattallassang,56651.0,269171.0,475.13900902014086
+400,Sulawesi Selatan,Kabupaten Tana Toraja,Makale,205430.0,221795.0,107.96621720294017
+401,Sulawesi Selatan,Kabupaten Toraja Utara,Rantepao,115147.0,215400.0,187.06522966295256
+402,Sulawesi Selatan,Kabupaten Wajo,Sengkang,205620.0,384694.0,187.0897772590215
+403,Sulawesi Selatan,Kota Makassar,-,17577.0,1334090.0,7589.975536212095
+404,Sulawesi Selatan,Kota Palopo,-,24752.0,148033.0,598.0648028442146
+405,Sulawesi Selatan,Kota Parepare,-,9933.0,132048.0,1329.38689217759
+406,Sulawesi Tenggara,Kabupaten Bombana,Rumbia,300100.0,136582.0,45.51216261246251
+407,Sulawesi Tenggara,Kabupaten Buton,Pasarwajo,121299.0,114596.0,94.47398577069885
+408,Sulawesi Tenggara,Kabupaten Buton Selatan,Batauga,50992.0,94727.0,185.76835582052087
+409,Sulawesi Tenggara,Kabupaten Buton Tengah,Labungkari,95831.0,115121.0,120.12918575408793
+410,Sulawesi Tenggara,Kabupaten Buton Utara,Buranga,186491.0,62197.0,33.351207296866875
+411,Sulawesi Tenggara,Kabupaten Kolaka,Kolaka,328359.0,228970.0,69.73160473749768
+412,Sulawesi Tenggara,Kabupaten Kolaka Timur,Tirawuta,363474.0,119461.0,32.8664498698669
+413,Sulawesi Tenggara,Kabupaten Kolaka Utara,Lasusua,339167.0,134771.0,39.735882323457176
+414,Sulawesi Tenggara,Kabupaten Konawe,Unaaha,443528.0,253659.0,57.19120326112444
+415,Sulawesi Tenggara,Kabupaten Konawe Kepulauan,Langara,86758.0,34226.0,39.449964268424814
+416,Sulawesi Tenggara,Kabupaten Konawe Selatan,Andolo,577947.0,306783.0,53.081510934393634
+417,Sulawesi Tenggara,Kabupaten Konawe Utara,Wanggudu,510176.0,64773.0,12.696206799222228
+418,Sulawesi Tenggara,Kabupaten Muna,Raha,192216.0,227941.0,118.58586173887709
+419,Sulawesi Tenggara,Kabupaten Muna Barat,Sawerigadi,102289.0,78630.0,76.87043572622667
+420,Sulawesi Tenggara,Kabupaten Wakatobi,Wangi-Wangi,55954.0,110303.0,197.13157236301248
+421,Sulawesi Tenggara,Kota Bau-Bau,-,22100.0,154487.0,699.0361990950227
+422,Sulawesi Tenggara,Kota Kendari,-,30089.0,334335.0,1111.1535777194324
+423,Sulawesi Tengah,Kabupaten Banggai,Luwuk,967270.0,359495.0,37.16594125735317
+424,Sulawesi Tengah,Kabupaten Banggai Kepulauan,Salakan,248879.0,117526.0,47.22214409411803
+425,Sulawesi Tengah,Kabupaten Banggai Laut,Banggai,72567.0,63127.0,86.99133214822164
+426,Sulawesi Tengah,Kabupaten Buol,Buol,404357.0,132786.0,32.83880333467703
+427,Sulawesi Tengah,Kabupaten Donggala,Banawa,427508.0,293470.0,68.64666860035368
+428,Sulawesi Tengah,Kabupaten Morowali,Bungku,303704.0,129814.0,42.74359244527567
+429,Sulawesi Tengah,Kabupaten Morowali Utara,Kolonodale,1000428.0,117164.0,11.711387526138811
+430,Sulawesi Tengah,Kabupaten Parigi Moutong,Parigi,508991.0,444513.0,87.33219251420948
+431,Sulawesi Tengah,Kabupaten Poso,Poso,711225.0,243025.0,34.16991809905445
+432,Sulawesi Tengah,Kabupaten Sigi,Sigi Biromaru,519602.0,247057.0,47.547353551372005
+433,Sulawesi Tengah,Kabupaten Tojo Una-Una,Ampana,572115.0,155885.0,27.24714436782815
+434,Sulawesi Tengah,Kabupaten Tolitoli,Tolitoli,407977.0,211973.0,51.95709562058646
+435,Sulawesi Tengah,Kota Palu,-,39506.0,363867.0,921.0423733103833
+436,Sulawesi Utara,Kabupaten Bolaang Mongondow,Lolak,287165.0,246282.0,85.76323716330333
+437,Sulawesi Utara,Kabupaten Bolaang Mongondow Selatan,Molibagu,161586.0,66474.0,41.13846496602429
+438,Sulawesi Utara,Kabupaten Bolaang Mongondow Timur,Tutuyan,91018.0,84440.0,92.77285811597706
+439,Sulawesi Utara,Kabupaten Bolaang Mongondow Utara,Boroko,168000.0,87881.0,52.31011904761905
+440,Sulawesi Utara,Kabupaten Kepulauan Sangihe,Tahuna,46111.0,141950.0,307.8441152870248
+441,Sulawesi Utara,Kabupaten Kepulauan Siau Tagulandang Biaro,Ondong Siau,27586.0,72203.0,261.73783803378524
+442,Sulawesi Utara,Kabupaten Kepulauan Talaud,Melonguane,124040.0,100753.0,81.22621734924218
+443,Sulawesi Utara,Kabupaten Minahasa,Tondano,111487.0,336015.0,301.3938844887745
+444,Sulawesi Utara,Kabupaten Minahasa Selatan,Amurang,140997.0,234365.0,166.21984864926205
+445,Sulawesi Utara,Kabupaten Minahasa Tenggara,Ratahan,71083.0,116375.0,163.71706315152707
+446,Sulawesi Utara,Kabupaten Minahasa Utara,Airmadidi,91849.0,217660.0,236.97590610676218
+447,Sulawesi Utara,Kota Bitung,-,30289.0,221209.0,730.3278417907492
+448,Sulawesi Utara,Kota Kotamobagu,-,6806.0,122308.0,1797.0614163972964
+449,Sulawesi Utara,Kota Manado,-,15727.0,466176.0,2964.1762573917463
+450,Sulawesi Utara,Kota Tomohon,-,11420.0,98013.0,858.2574430823117
+451,Maluku,Kabupaten Buru,Namlea,493232.0,130696.0,26.497875239238333
+452,Maluku,Kabupaten Buru Selatan,Namrole,378056.0,72993.0,19.307457096303192
+453,Maluku,Kabupaten Kepulauan Aru,Dobo,815242.0,102272.0,12.544986642003233
+454,Maluku,Kabupaten Maluku Barat Daya,Tiakur,458106.0,66805.0,14.58286946689194
+455,Maluku,Kabupaten Maluku Tengah,Masohi,795381.0,422065.0,53.06450619262969
+456,Maluku,Kabupaten Maluku Tenggara,Langgur,103181.0,125704.0,121.82863124024773
+457,Maluku,Kabupaten Kepulauan Tanimbar,Saumlaki,446579.0,122337.0,27.394257231083415
+458,Maluku,Kabupaten Seram Bagian Barat,Piru,503338.0,208009.0,41.32590823661238
+459,Maluku,Kabupaten Seram Bagian Timur,Bula,642988.0,131707.0,20.483586007825963
+460,Maluku,Kota Ambon,-,29861.0,375760.0,1258.3637520511704
+461,Maluku,Kota Tual,-,25439.0,84585.0,332.5012775659421
+462,Maluku Utara,Kabupaten Halmahera Barat,Jailolo,170420.0,132427.0,77.7062551343739
+463,Maluku Utara,Kabupaten Halmahera Tengah,Weda,265376.0,50164.0,18.902990473893645
+464,Maluku Utara,Kabupaten Halmahera Timur,Kota Maba,657137.0,90924.0,13.83638419385912
+465,Maluku Utara,Kabupaten Halmahera Selatan,Labuha,814890.0,247378.0,30.357226128679947
+466,Maluku Utara,Kabupaten Halmahera Utara,Tobelo,389690.0,194291.0,49.85783571556878
+467,Maluku Utara,Kabupaten Kepulauan Sula,Sanana,330432.0,110507.0,33.44318952159597
+468,Maluku Utara,Kabupaten Pulau Morotai,Daruba,247600.0,66983.0,27.052907915993536
+469,Maluku Utara,Kabupaten Pulau Taliabu,Bobong,146993.0,56202.0,38.2344737504507
+470,Maluku Utara,Kota Ternate,-,11139.0,215524.0,1934.8595026483526
+471,Maluku Utara,Kota Tidore Kepulauan,-,164573.0,111431.0,67.7091624993164
+472,Papua,Kabupaten Asmat,Agats,3198369.0,103074.0,3.2227050724916357
+473,Papua,Kabupaten Biak Numfor,Kota Biak,260200.0,140631.0,54.04727132974635
+474,Papua,Kabupaten Boven Digoel,Tanah Merah,2710800.0,58093.0,2.1430205105503912
+475,Papua,Kabupaten Deiyai,Tigi,53739.0,88145.0,164.02426543106498
+476,Papua,Kabupaten Dogiyai,Kigamani,423740.0,112513.0,26.55236701751074
+477,Papua,Kabupaten Intan Jaya,Sugapa,392202.0,137050.0,34.943727976909855
+478,Papua,Kabupaten Jayapura,Sentani,1115715.0,165404.0,14.824932890567933
+479,Papua,Kabupaten Jayawijaya,Wamena,703066.0,268137.0,38.13824022211286
+480,Papua,Kabupaten Keerom,Waris,839000.0,59406.0,7.080572109654351
+481,Papua,Kabupaten Kepulauan Yapen,Serui,205000.0,109531.0,53.429756097560976
+482,Papua,Kabupaten Lanny Jaya,Tiom,224800.0,197313.0,87.77268683274022
+483,Papua,Kabupaten Mamberamo Raya,Burmeso,2381391.0,34558.0,1.4511686657084033
+484,Papua,Kabupaten Mamberamo Tengah,Kobakma,127500.0,44788.0,35.1278431372549
+485,Papua,Kabupaten Mappi,Kepi,2411800.0,102113.0,4.233891699145866
+486,Papua,Kabupaten Merauke,Merauke,4407100.0,221886.0,5.03473939778993
+487,Papua,Kabupaten Mimika,Timika,2163300.0,306517.0,14.168954837516758
+488,Papua,Kabupaten Nabire,Nabire,1111261.0,166463.0,14.979649245316805
+489,Papua,Kabupaten Nduga,Kenyam,216800.0,106354.0,49.056273062730625
+490,Papua,Kabupaten Paniai,Enarotali,652525.0,117047.0,17.937550285429676
+491,Papua,Kabupaten Pegunungan Bintang,Oksibil,1568200.0,107353.0,6.845619181226884
+492,Papua,Kabupaten Puncak,Ilaga,805500.0,158406.0,19.66554934823091
+493,Papua,Kabupaten Puncak Jaya,Kotamulia,498951.0,215106.0,43.111648238003326
+494,Papua,Kabupaten Sarmi,Sarmi,1774200.0,36726.0,2.0700033818058845
+495,Papua,Kabupaten Supiori,Sorendiweri,67832.0,21014.0,30.979478712112275
+496,Papua,Kabupaten Tolikara,Karubaga,558813.0,246858.0,44.175421831632406
+497,Papua,Kabupaten Waropen,Botawa,1097709.0,32541.0,2.964446861599932
+498,Papua,Kabupaten Yahukimo,Sumohai,1715200.0,349410.0,20.37138526119403
+499,Papua,Kabupaten Yalimo,Elelim,125300.0,118829.0,94.83559457302474
+500,Papua,Kota Jayapura,-,93592.0,417492.0,446.07658774254213
+501,Papua Barat,Kabupaten Fakfak,Fakfak,1432000.0,84692.0,5.914245810055866
+502,Papua Barat,Kabupaten Kaimana,Kaimana,1624184.0,61370.0,3.778512779340272
+503,Papua Barat,Kabupaten Manokwari,Manokwari,318628.0,185615.0,58.254453469249405
+504,Papua Barat,Kabupaten Manokwari Selatan,Ransiki,281244.0,34009.0,12.092346858955214
+505,Papua Barat,Kabupaten Maybrat,Kumurkek,546169.0,41431.0,7.585747268702545
+506,Papua Barat,Kabupaten Pegunungan Arfak,Anggi,277374.0,36818.0,13.273774758989669
+507,Papua Barat,Kabupaten Raja Ampat,Waisai,803444.0,62861.0,7.823942925704841
+508,Papua Barat,Kabupaten Sorong,Aimas,654423.0,118985.0,18.18166537545288
+509,Papua Barat,Kabupaten Sorong Selatan,Teminabuan,659431.0,57676.0,8.746328273921002
+510,Papua Barat,Kabupaten Tambrauw,Fef,1152918.0,13879.0,1.2038150154651068
+511,Papua Barat,Kabupaten Teluk Bintuni,Bintuni,2084083.0,76932.0,3.69140768385904
+512,Papua Barat,Kabupaten Teluk Wondama,Rasiei,395953.0,41304.0,10.431541117253815
+513,Papua Barat,Kota Sorong,-,65664.0,275618.0,419.73988791423005
